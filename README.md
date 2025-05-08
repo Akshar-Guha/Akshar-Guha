@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I’m Akshar 👋  
+### A passionate Software Developer  
 
-<!--
-**Akshar-Guha/Akshar-Guha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**📫 How to reach me**  
+[![LinkedIn][linkedin-badge]][linkedin]  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack  
+<img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&style=for-the-badge" />  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats  
+![Stats](https://github-readme-stats.vercel.app/api?username=akshar123&show_icons=true)  
+
+## 🏆 GitHub Trophies  
+![Trophy](https://github-profile-trophy.vercel.app/?username=akshar123&theme=onedark)  
+
+### ✍️ Random Dev Quote  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)  
+
+---
+
+### 🔗 Links  
+[![LinkedIn][linkedin-badge]][linkedin]
+
+[linkedin]: https://linkedin.com/in/akshar123  
+[linkedin-badge]: https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge
