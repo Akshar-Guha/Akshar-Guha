@@ -12,5 +12,42 @@
 
 ## 🛠️ Tech Stack  
 <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&style=for-the-badge" />  
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=for-the-badge" alt="CSS3"/>
+<img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&style=for-the-badge" alt="C#"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&style=for-the-badge" alt="GraphQL"/>
+<img src="https://img.shields.io/badge/Java-007396?logo=java&style=for-the-badge" alt="Java"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=for-the-badge" alt="HTML5"/>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge" alt="Python"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=for-the-badge" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c-plusplus&style=for-the-badge" alt="C++"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&style=for-the-badge" alt="Firebase"/>
+<img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&style=for-the-badge" alt="Heroku"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&style=for-the-badge" alt="Angular"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?logo=dot-net&style=for-the-badge" alt=".NET"/>
+<img src="https://img.shields.io/badge/Express.js-000000?logo=express&style=for-the-badge" alt="Express.js"/>
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&style=for-the-badge" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&style=for-the-badge" alt="Next.js"/>
+<img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&style=for-the-badge" alt="NPM"/>
+<img src="https://img.shields.io/badge/React-20232A?logo=react&style=for-the-badge" alt="React"/>
+<img src="https://img.shields.io/badge/React%20Native-20232A?logo=react&style=for-the-badge" alt="React Native"/>
+<img src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&style=for-the-badge" alt="React Router"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&style=for-the-badge" alt="Redux"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&style=for-the-badge" alt="Spring"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?logo=socket.io&style=for-the-badge" alt="Socket.io"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&style=for-the-badge" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&style=for-the-badge" alt="Vue.js"/>
+<img src="https://img.shields.io/badge/TypeGraphQL-311C87?logo=typescript&style=for-the-badge" alt="TypeGraphQL"/>
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?logo=thymeleaf&style=for-the-badge" alt="Thymeleaf"/>
+<img src="https://img.shields.io/badge/Apache%20HTTP%20Server-B8272A?logo=apache&style=for-the-badge" alt="Apache"/>
+<img src="https://img.shields.io/badge/Apache%20Maven-C71A36?logo=apache-maven&style=for-the-badge" alt="Apache Maven"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&style=for-the-badge" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&style=for-the-badge" alt="Redis"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge" alt="MySQL"/>
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&style=for-the-badge" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&style=for-the-badge" alt="Pandas"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&style=for-the-badge" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&style=for-the-badge" alt="Linux"/>
+
 
 ---
