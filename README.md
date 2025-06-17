@@ -1,5 +1,5 @@
 # Hi there, I'm Akshar 👋  
-### Passionate Software Developer Crafting Robust Solutions
+### Passionate Software Developer Crafting Solutions
 
 ---
 
@@ -75,14 +75,6 @@
   <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white&style=for-the-badge" alt="MLflow">
   <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge" alt="Grafana">
 </div>
-
----
-
-## 🔭 Currently Exploring
-- Machine Learning Operations (MLOps)
-- Cloud-native architectures
-- High-performance web applications
-- Scalable data pipelines
 
 ---
 
